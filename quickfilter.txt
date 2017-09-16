@@ -35,3 +35,10 @@
 ||2mdn.net^
 ||openx.net^
 ||gumgum.com^
+||www.googletagservices.com^
+||fastlane.rubiconproject.com^
+||ads.pubmatic.com^
+||tags.tiqcdn.com/utag/*
+||newscgp.com^
+||googletagmanager.com^
+||litix.io^
