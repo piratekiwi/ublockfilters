@@ -26,3 +26,12 @@
 ||contextweb.com^
 ||adnxs.com^
 ||chartbeat.com^
+||moatads.com^
+||parsely.com^
+||visualrevenue.com^
+||plista.com^
+||googlesyndication.com^
+||tt.onthe.io^
+||2mdn.net^
+||openx.net^
+||gumgum.com^
