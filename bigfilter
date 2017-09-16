@@ -1,0 +1,28 @@
+# An experimental ad blocking filter list.
+
+# This aims to be as small as possible whilst blocking a wide range of ads.
+
+# Some legitimate content might get blocked.
+
+# Most of these ad networks are pulled from popular websites.
+
+||criteo.com^
+||doubleclick.net^
+||demdex.net^
+||ib.adnxs.com^
+||pixel.quantserve.com^
+||advertising.com^
+||scorecardresearch.com^
+||bluekai.com^
+||doubleclick.net^
+||crwdcntrl.net^
+||adtech.de^
+||amazon-adsystem.com^
+||google-analytics.com^
+||exelator.com^
+||rlcdn.com^
+||eyeota.net^
+||mathtag.com^
+||contextweb.com^
+||adnxs.com^
+||chartbeat.com^
