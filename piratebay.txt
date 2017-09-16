@@ -1,3 +1,11 @@
 !Blocks Crypto Miner
 
 https://coin-hive.com/lib/coinhive.min.js
+
+!Advertising network - malicious popups
+https://traffic.adxprts.com
+ads.exoclick.com
+main.exoclick.com
+syndication.exoclick.com
+exoclick.com
+coin-hive.com
