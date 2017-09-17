@@ -1,10 +1,5 @@
-# An experimental ad blocking filter list.
-
-# This aims to be as small as possible whilst blocking a wide range of ads.
-
-# Some legitimate content might get blocked.
-
-# Most of these ad networks are pulled from popular websites.
+#Experimental Ad & Element blocker
+#This is a test filter. Some ads will still get through.
 
 ||criteo.com^
 ||doubleclick.net^
@@ -42,3 +37,30 @@
 ||newscgp.com^
 ||googletagmanager.com^
 ||litix.io^
+||na.ads.yahoo.com^
+||ads.yahoo.com^
+||casalemedia.com^
+||adform.net^
+||rfihub.com^
+||match.prod.bidr.io^
+||s.yimg.com/rq^
+||cdn.gigya.com/JS/gigya.js
+||static.ads-twitter.com^
+||vrp.outbrain.com^
+
+
+
+
+
+
+!Experimental element blocker (This removes empty ad elements from multiple sites. This doesn't completely work and some blank space may still be in view. Most of these target Yahoo.
+###nav-ad*
+###incontent-ad*
+###billBoard*
+##.relative.billboard-watermark.billboard_wrapper
+###my-ads
+###my-adsMAST
+###my-ads*
+###my-adsLREC
+###my-adsLREC2
+###my-adsLREC4
